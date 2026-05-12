@@ -53,7 +53,7 @@ Emergency support feature that:
 ## Installation
 
 ### Clone Repository
-git clone https://github.com/yourusername/Arogya_Sahaya.git
+git clone https://github.com/Sanjangowda/Arogya_Sahaya.git
 
 #### Open in Android Studio
 
