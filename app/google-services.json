@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "613801758284",
+    "project_id": "arogya-sahaya-92b81",
+    "storage_bucket": "arogya-sahaya-92b81.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613801758284:android:e3c9a9299e829e928aeee9",
+        "android_client_info": {
+          "package_name": "com.example.arogya_sahaya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9KY5D06zd-pXIgSbTMa8QEVQbhdMdTys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
